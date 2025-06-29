@@ -6,13 +6,13 @@
 
 ## 𝗦𝗛𝗘𝗭𝗭╺𝗫𝗡𝗗-𝗕𝗢𝗧࿐   
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+SHEZZ╺+XMD+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+SHEHAN+NAYANASARA+ONLY;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+SHEHAN;𝐌𝐑:+☬SHEHAN༒NAYANASARA࿐;💕ඉතිං+කොහොමද+ලත්තන+ළමයෝ🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
-LATEST VERSION (2022-08-20) ([Whatsapp can't see messages]) [Fixed ]
+LATEST VERSION (2025) 
 
 > [🔄Please Follow Me🤭](https://github.com/xcodejet)
 
-<img src="https://github.com/xcodejet/xcodejet/blob/main/xcodejet-media/xcodejet_gif.gif">" alt="Loading..." width="310"/>
+<img src="https://github.com/xcodejet/xcodejet/blob/main/xcodejet-media/xcodejet_gif.gif">
 
 # Powered By: XCODEJET
 
