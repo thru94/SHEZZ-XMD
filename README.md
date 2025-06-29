@@ -1,7 +1,7 @@
 <p align="center">
 <img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
 <p align="center">
-<img src="https://i.ibb.co/82zgjSR/20220926-155611.png" alt="nz" width="350"/>
+<img src="https://i.ibb.co/Jj0y7D0Y/20250629-163235.jpg" alt="20250629-163235" border="0">
 </p>
 
 ## 𝗦𝗛𝗘𝗭𝗭╺𝗫𝗡𝗗-𝗕𝗢𝗧࿐   
