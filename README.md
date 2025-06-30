@@ -24,13 +24,13 @@ LATEST VERSION (2025)
 👇To proccess👇
 </p>
 
-## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+## 👽➾ [𝗙𝗢𝗥 𝗤𝗥 𝗦𝗖𝗔𝗡](https://shehan-2321b3e4d0df.herokuapp.com/qr)
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+## 🛸➾ [𝗙𝗢𝗥𝗞 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗕𝗬 𝗖𝗟𝗜𝗖𝗞𝗜𝗡𝗚 𝗛𝗘𝗥𝗘](https://github.com/thru94/SHEZZ-XMD/fork)
  
-## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
+## 🫵➾ [𝗡𝗢𝗪 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘](https://dashboard.heroku.com/new?template=https://github.com/thru94/SHEZZ-XMD)
 
-## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
+## 🤭➾ [𝗦𝗛𝗘𝗭𝗭 𝗫 𝗠𝗗 𝗢𝗙𝗙𝗜𝗖𝗔𝗟 𝗪𝗘𝗕 𝗛𝗘𝗥𝗘](https://shehan-2321b3e4d0df.herokuapp.com/)
 
 
 <p align="center">
