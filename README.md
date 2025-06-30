@@ -1,142 +1,208 @@
+
+
+<img align="center" height="auto"
+src="https://i.imgur.com/1DkLGVk.jpeg">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=K+A+N+G+O+X+M+D+▇)](https://git.io/typing-svg)
+<br>
+
+   </p>
 <p align="center">
-<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
+<a href="https://github.com/OfficialKango"><img title="Author" src="https://img.shields.io/badge/Hector-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@official_manuel"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233509977126"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<p/> 
+
+ <p align="center">
+<a href="https://github.com/OfficialKango/followers"><img title="Followers" src="https://img.shields.io/github/followers/OfficialKango?color=purple&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/OfficialKango/KANGO-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/OfficialKango/KANGO-XMD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/OfficialKango/KANGO-XMD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/OfficialKango/KANGO-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<p align="center"><img src="https://profile-counter.glitch.me/{KANGO-XMD}/count.svg" alt="OfficialKango :: Visitor's Count" old_src="https://profile-counter.glitch.me/{OfficialKango}/count.svg" /></p>
 <p align="center">
-<img src="https://i.ibb.co/Jj0y7D0Y/20250629-163235.jpg" alt="20250629-163235" border="0">
+<a href="https://github.com/OfficialKango/KANGO-XMD"Kango"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KANGO-XMD&label=VIEWS&style=flat-square&color=blue" />
+</a>
+<p align="center">
+  <a href="https://github.com/OfficialKango/KANGO-XMD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+
+<p align='center'>
+    </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## 🛠️ `KANGO-XMD INSTALLATION`
+
+
+
+1. Fork and star this repo first
+
+Click the button below to fork KANGO-XMD Repository to your GitHub account:
+
+  <br>
+    <p align="left">
+  <a href="https://github.com/OfficialKango/KANGO-XMD/fork"><img title="KANGO-XMD" src="https://img.shields.io/badge/FORK-KANGO-XMDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+🔑 Get Session ID (WhatsApp Pair Code Login)
+
+> Generate your session ID from the link below:
+<p align="left">
+  <a href="https://kango-ef1f620b32d8.herokuapp.com/?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+  </a>
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-## 𝗦𝗛𝗘𝗭𝗭╺𝗫𝗡𝗗-𝗕𝗢𝗧࿐   
+## `DEPLOYMENTS`
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FOfficialKango%2FKANGO-XMD) 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+SHEZZ╺+XMD+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+SHEHAN+NAYANASARA+ONLY;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+SHEHAN;𝐌𝐑:+☬SHEHAN༒NAYANASARA࿐;💕ඉතිං+කොහොමද+ලත්තන+ළමයෝ🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
-
-LATEST VERSION (2025) 
-
-> [🔄Please Follow Me🤭](https://github.com/xcodejet)
-
-<img src="https://github.com/xcodejet/xcodejet/blob/main/xcodejet-media/xcodejet_gif.gif">
-
-# Powered By: XCODEJET
+💯 safe
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-<p align="center">
-❯❯😎Kick bellow topics😒❮❮
-</p>
-<p align="center">
-👇To proccess👇
-</p>
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/OfficialKango/KANGO-XMD)
 
-## 🙂➾ [Scan QR In Your Whatsapp From Here](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
+<details>
+<summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-## 🙂➾ [Fork This Repo By Clicking Here](https://github.com/prabhasha2006/Red-Dragon/fork)
+* `Fork` KANGO-XMD Repository or `sync` if you had forked.
+* `Link` to your WhatsApp using Server 1, 2 or 3
+* Incase you use Server 2, paste the session id on settings.js @SESSION_ID
+* If you used Server 3, upload the `creds.json` received in the `session` folder.
+* Alternatively; you can open the `creds.json` using `Mt manager` or `treb edit` and copy everything and paste at `creds.json` on the `session` folder.
+* Go to `src>data>role>owner.json` and enter your number.
+* Edit your details at `settings.js` (Optional).
+* Create an `heroku` account if you don't have.
+* Then choose create new app
+* Enter your app name and Create.
+* Connect with your GitHub account.
+* Search KANGO-XMD, and connect.
+* Press deploy and wait for a few minutes.
+* Enjoy.
+</details>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+<details>
+<summary>𝘔𝘖𝘙𝘌 𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</summary>
  
-## 🙂➾ [Then Deploy The Bot From Here](https://heroku.com/deploy)
-
-## 🙂➾ [Red Dragon Bot Official Website Here](https://sites.google.com/view/red-dragon-bot/home)
-
-
-<p align="center">
-
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
-
+ **• 2 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
+<br>
+> Click below to download the bot file :
+<p align="left">
+<a href="https://github.com/OfficialKango/KANGO-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-green" alt="Rainhost Files" width="150"></a>
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+  
+> Click below to deploy on Katabump :
+<p align="left">
+  <a href="https://dashboard.katabump.com/welcome/#14aeb2">
+    <img src="https://img.shields.io/badge/Deploy%20to%20Katabump-Hosting-6962a6?style=for-the-badge&logo=katabump&logoColor=red"/>
+  </a>
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+  
+> Click below to deploy on Bot-Hosting :
+<p align="left">
+  <a href="https://bot-hosting.net/?aff=1132461929839984758">
+    <img src="https://img.shields.io/badge/Deploy%20to%20Bot-hosting-9772a6?style=for-the-badge&logo=bothosting&logoColor=white"/>
+  </a>
 </p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+ </a>
+
 </details>
 
-<b><details><summary>🔄How to Update Bot🔄</summary>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-> [VIDEO](https://drive.google.com/file/d/1798s8erVW31EcmK3Opq-QuV7GG4byyoH/view)
-
-</b>
+<details>
+<summary>𝘏𝘖𝘞 𝘛𝘖 𝘋𝘌𝘗𝘓𝘖𝘠 𝘖𝘕 𝘗𝘈𝘕𝘌𝘓𝘚</summary>
+ 
+1. `Fork` the Repository.
+2. If already forked then `sync` fork repository.
+3. Click on the green `Code` button and click `download as zip`.
+4. `Upload` the script zip file to your `panel`.
+5. `Unarchieve` the uploaded zip file.
+6. Open the `unarchieved folder` and `move` all files to container by typing (`../`)
+7. Now go to `console` and `start` bot.
+8. Wait for `5-10 mins` to enter your number.
+9. Enter your number when requested to get the pair code.
+10. Enter pair code in link devices in whatsapp.
+11. Deployment successful.
 </details>
+ 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<b><details><summary>📤How to Upload Images To Alive Msg📤</summary>
+<details>
+<summary>𝘔𝘈𝘕𝘜𝘈𝘓 𝘐𝘕𝘚𝘛𝘈𝘓𝘓𝘔𝘌𝘕𝘛𝘚</summary>
+  
+## `REQUIREMENTS`
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
+* Any text editor
+  
+## `CLONE REPO & INSTALLATION DEPENDENCIES`
+```bash
+git clone https://github.com/OfficialKango/KANGO-XMD.git
+cd KANGO-XMD 
+npm start
+```
 
-> [VIDEO](https://drive.google.com/file/d/16J5278xK9-5oJUsGPygviVC9U6exw1AZ/view)
+## `FOR SSH/UBUNTU/LINUX`
+```bash
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install -y bash
+sudo apt-get install -y libwebp
+sudo apt-get install -y git
+sudo apt-get install -y nodejs
+sudo apt-get install -y ffmpeg
+sudo apt-get install -y wget
+sudo apt-get install -y imagemagick
+git clone https://github.com/OfficialKango/KANGO-XMD.git
+cd KANGO-XMD
+npm install
+npm start
+```
 
-</b>
-</details>
+## `FOR TERMUX`
+```bash
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
+cd /sdcard
+cd bot folder name
+yarn install
+npm start
+```
 
-<b><details><summary>🪀Recommended WhatsApps🪀</summary>
+## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
 
->If you using mod whatsapp!
->DO NOT USE FOUD MODS.
-
->ඔබ වට්සැප් මොඩ් භාවිතා කරනවා නම් Foud mod හෝ වෙනත් පරණ Base සහිත වට්සැප් මගින් ඔබේ ගිනුම තාවකාලිකව Ban විය හැකියි.
-
-Recommended WhatsApp👇
->Normal WhatsApp [DOWNLOAD](https://play.google.com/store/apps/details?id=com.whatsapp)
->YMWhatsApp Mod [DOWNLOAD](https://ymwhatsapp.com/ymwa/)
-
-</b>
+## `FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)`
+```bash
+npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
+```
 </details>
 
 ##
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
+</h2>
 
-> [SUPPORT GROUP](https://chat.whatsapp.com/I1v5ZTJeFjZ9x5LzG3qPHU)
+- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-<b><details><summary>𝗛𝗼𝘄 𝗧𝗼 𝗠𝗮𝗸𝗲?</summary>
-
->මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
-
->ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
-
->දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
-
->දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න😁.
-
->දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවං😒😒😒
-
->යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
-
-</b>
-</details>
-
-<!-- Contact Owner -->
-<b><details><summary>Contact Owner 😜</summary></b>
-
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/380944814219"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
-</p>
-
-</details>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-## 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐
+**© KANGO Bot**
+##
+![MIT License](https://img.shields.io/badge/License-green.svg)
 
 
-
-<b><details><summary>Available Features</summary><br>
-	
-| Features |  Availability |
-| :------: |  :----------: |
-|   Convert     |       😎     |
-|   Database     |       😎     |
-|   Owner     |       😎    |
-|   Downloader     |       😎     |
-|   Webzone     |       😎       |
-|   Searching     |       😎      |
-|   Textpro     |       😎      |
-|   Ephoto     |       😎     |
-|   Anime Web     |       😎      |
-|   Stalker     |       😎      |
-|   Random Text     |       😎     |
-|   Random Image     |       😎     |
-|   Creator     |       😎      |
-
-</details>
-
-<div align="center">
-	
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KumuthuPrabhash/Red-Dragon-Bot-Qr-Code?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-</div>
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien-Alfa`](https://github.com/Alien-Alfa)
-* [`DGXeon`](https://github.com/DGXeon)
-* [`AflahXrd`](https://github.com/nexusNw)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
